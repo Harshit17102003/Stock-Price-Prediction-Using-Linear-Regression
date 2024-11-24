@@ -36,17 +36,17 @@ Predicting stock prices based on historical data using Python! This project leve
 🛡️ **License**
 This project is licensed under the MIT License. See the LICENSE file for details
 
-🤝 **Contributing**
+🤝 **Contributing**<br>
 Contributions are welcome! Here's how you can help:
 
-1.Fork the repository 🍴
-2. Create your feature branch:
-   git checkout -b feature-name
-3. Commit your changes:
-  git commit -m "Add some feature"
-4. Push to the branch:
-  git push origin feature-name
-5. Open a pull request 🔁
+1.Fork the repository 🍴<br>
+2. Create your feature branch:<br>
+   git checkout -b feature-name<br>
+3. Commit your changes:<br>
+  git commit -m "Add some feature"<br>
+4. Push to the branch:<br>
+  git push origin feature-name<br>
+5. Open a pull request 🔁<br>
 
 📬 **Contact**
 Created by Your Name - feel free to reach out!
