@@ -33,7 +33,7 @@ Predicting stock prices based on historical data using Python! This project leve
 | `train_model()`       | Trains a linear regression model 🤖       |
 | `visualize_results()` | Plots actual vs. predicted prices 📈      |
 
-🛡️ **License**
+🛡️ **License**<br>
 This project is licensed under the MIT License. See the LICENSE file for details
 
 🤝 **Contributing**<br>
@@ -48,12 +48,12 @@ Contributions are welcome! Here's how you can help:
   git push origin feature-name<br>
 5. Open a pull request 🔁<br>
 
-📬 **Contact**
-Created by Your Name - feel free to reach out!
-📧 Email: harshitsharma17102003@example.com
+📬 **Contact**<br>
+Created by Your Name - feel free to reach out!<br>
+📧 Email: harshitsharma17102003@example.com<br>
 
-🌟 **Acknowledgements**
-1. Yahoo Finance API for historical stock data
+🌟 **Acknowledgements**<br>
+1. Yahoo Finance API for historical stock data<br>
 2. Python community for their amazing libraries!
 
 
